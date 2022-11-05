@@ -1,0 +1,11 @@
+keeps your keys in mind (in this case container1.container and container2.container)
+on zabbix server portal add your host 
+then add item (create item) 
+type: zabbix agent
+key: container1.container
+
+then for adding graph:
+create new graph 
+add the item (contianer1.container)
+then your graph is available
+
