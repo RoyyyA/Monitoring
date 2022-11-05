@@ -1,0 +1,2 @@
+agentAddress  udp:0.0.0.0:161
+rocommunity Macro123  192.168.73.198 ##note that "Macro123" might be different according to your zabbix server, such as "public" or so on
